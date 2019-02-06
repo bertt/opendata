@@ -1,0 +1,439 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.90065558390135,51.9844792611233,0.76016968077234 ]
+    },
+    "properties": {
+    "POIS__ORIENTATION_X":"0",
+    "POIS__ORIENTATION_Y":-0.3982447027923957,
+    "POIS__ORIENTATION_Z":-0.6252075060321792,
+    "POIS__ORIENTATION_W":0.6712054313686824,
+    "POIS__ID":2,
+    "POIS__VISIBILITY_CHECK":"true",
+    "POIS__IMPORTANCE":0.5,
+    "POIS__REFERENCE_MARKER":"false",
+    "POIS__CUSTOM_DATA":"",
+    "POIS__ICON":"",
+    "POIS__DATASET":"2018-09-11_10.49.28",
+    "POIS__TITLE__NL":"toilet",
+    "POIS__TITLE__EN":"",
+    "POI_TYPES__ID":16,
+    "POI_TYPES__ICON":"img/poi_navvis/sanitary_toiletmen.png",
+    "POI_TYPES__VISIBILITY_ZOOM_MAX":"",
+    "POI_TYPES__VISIBILITY_ZOOM_MIN":"",
+    "POI_TYPES__NAME__DE":"WC (Männer)",
+    "POI_TYPES__NAME__EN":"Restroom (Men)",
+    "POI_TYPE_GROUPS__ID":4,
+    "POI_TYPE_GROUPS__NAME__DE":"Sanitär",
+    "POI_TYPE_GROUPS__NAME__EN":"Restrooms"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.90069057156713,51.9844736392051,0.679867121436263 ]
+    },
+    "properties": {
+    "POIS__ORIENTATION_X":"0",
+    "POIS__ORIENTATION_Y":-0.4896991171247395,
+    "POIS__ORIENTATION_Z":-0.6342927891440654,
+    "POIS__ORIENTATION_W":0.5982202205936313,
+    "POIS__ID":3,
+    "POIS__VISIBILITY_CHECK":"true",
+    "POIS__IMPORTANCE":0.5,
+    "POIS__REFERENCE_MARKER":"false",
+    "POIS__CUSTOM_DATA":"",
+    "POIS__ICON":"",
+    "POIS__DATASET":"2018-09-11_10.49.28",
+    "POIS__TITLE__NL":"toilet",
+    "POIS__TITLE__EN":"",
+    "POI_TYPES__ID":17,
+    "POI_TYPES__ICON":"img/poi_navvis/sanitary_toiletwomen.png",
+    "POI_TYPES__VISIBILITY_ZOOM_MAX":"",
+    "POI_TYPES__VISIBILITY_ZOOM_MIN":"",
+    "POI_TYPES__NAME__DE":"WC (Frauen)",
+    "POI_TYPES__NAME__EN":"Restroom (Women)",
+    "POI_TYPE_GROUPS__ID":4,
+    "POI_TYPE_GROUPS__NAME__DE":"Sanitär",
+    "POI_TYPE_GROUPS__NAME__EN":"Restrooms"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.90156950727079,51.9835991410859,2.37272247696333 ]
+    },
+    "properties": {
+    "POIS__ORIENTATION_X":"0",
+    "POIS__ORIENTATION_Y":0.6904839993965285,
+    "POIS__ORIENTATION_Z":0.6820260478447395,
+    "POIS__ORIENTATION_W":0.2409819840541199,
+    "POIS__ID":4,
+    "POIS__VISIBILITY_CHECK":"true",
+    "POIS__IMPORTANCE":0.5,
+    "POIS__REFERENCE_MARKER":"false",
+    "POIS__CUSTOM_DATA":"",
+    "POIS__ICON":"",
+    "POIS__DATASET":"2018-09-11_10.33.24",
+    "POIS__TITLE__NL":"Halte A",
+    "POIS__TITLE__EN":"",
+    "POI_TYPES__ID":9,
+    "POI_TYPES__ICON":"img/poi_navvis/publictransport_bus.png",
+    "POI_TYPES__VISIBILITY_ZOOM_MAX":"",
+    "POI_TYPES__VISIBILITY_ZOOM_MIN":"",
+    "POI_TYPES__NAME__DE":"Bus",
+    "POI_TYPES__NAME__EN":"Bus",
+    "POI_TYPE_GROUPS__ID":3,
+    "POI_TYPE_GROUPS__NAME__DE":"Verkehr",
+    "POI_TYPE_GROUPS__NAME__EN":"Transport"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.90092381278307,51.9836307043074,0.0246082588306629 ]
+    },
+    "properties": {
+    "POIS__ORIENTATION_X":"0",
+    "POIS__ORIENTATION_Y":-0.7090708329794553,
+    "POIS__ORIENTATION_Z":-0.004751070911674299,
+    "POIS__ORIENTATION_W":0.7051212527948747,
+    "POIS__ID":5,
+    "POIS__VISIBILITY_CHECK":"true",
+    "POIS__IMPORTANCE":0.5,
+    "POIS__REFERENCE_MARKER":"false",
+    "POIS__CUSTOM_DATA":"",
+    "POIS__ICON":"",
+    "POIS__DATASET":"2018-09-11_10.33.24",
+    "POIS__TITLE__NL":"richting stad",
+    "POIS__TITLE__EN":"",
+    "POI_TYPES__ID":4,
+    "POI_TYPES__ICON":"img/poi_navvis/access_entrance_exit.png",
+    "POI_TYPES__VISIBILITY_ZOOM_MAX":"",
+    "POI_TYPES__VISIBILITY_ZOOM_MIN":"",
+    "POI_TYPES__NAME__DE":"Eingang/Ausgang",
+    "POI_TYPES__NAME__EN":"Entrance/Exit",
+    "POI_TYPE_GROUPS__ID":1,
+    "POI_TYPE_GROUPS__NAME__DE":"Zugang",
+    "POI_TYPE_GROUPS__NAME__EN":"Access"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.90084931108503,51.9839737166446,0.65151067214883 ]
+    },
+    "properties": {
+    "POIS__ORIENTATION_X":"0",
+    "POIS__ORIENTATION_Y":0.35623175498352594,
+    "POIS__ORIENTATION_Z":-0.08436042201985795,
+    "POIS__ORIENTATION_W":0.9305816761241263,
+    "POIS__ID":6,
+    "POIS__VISIBILITY_CHECK":"true",
+    "POIS__IMPORTANCE":0.5,
+    "POIS__REFERENCE_MARKER":"false",
+    "POIS__CUSTOM_DATA":"",
+    "POIS__ICON":"",
+    "POIS__DATASET":"2018-09-11_10.49.28",
+    "POIS__TITLE__NL":"Haltes E, F, G",
+    "POIS__TITLE__EN":"",
+    "POI_TYPES__ID":9,
+    "POI_TYPES__ICON":"img/poi_navvis/publictransport_bus.png",
+    "POI_TYPES__VISIBILITY_ZOOM_MAX":"",
+    "POI_TYPES__VISIBILITY_ZOOM_MIN":"",
+    "POI_TYPES__NAME__DE":"Bus",
+    "POI_TYPES__NAME__EN":"Bus",
+    "POI_TYPE_GROUPS__ID":3,
+    "POI_TYPE_GROUPS__NAME__DE":"Verkehr",
+    "POI_TYPE_GROUPS__NAME__EN":"Transport"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.9010310464162,51.9841049751001,0.161947623158706 ]
+    },
+    "properties": {
+    "POIS__ORIENTATION_X":"0",
+    "POIS__ORIENTATION_Y":-0.441194017076178,
+    "POIS__ORIENTATION_Z":0.26192148309290175,
+    "POIS__ORIENTATION_W":0.8583384973252686,
+    "POIS__ID":7,
+    "POIS__VISIBILITY_CHECK":"true",
+    "POIS__IMPORTANCE":0.5,
+    "POIS__REFERENCE_MARKER":"false",
+    "POIS__CUSTOM_DATA":"",
+    "POIS__ICON":"",
+    "POIS__DATASET":"2018-09-11_10.49.28",
+    "POIS__TITLE__NL":"Lift nieuwe stationstraat",
+    "POIS__TITLE__EN":"",
+    "POI_TYPES__ID":1,
+    "POI_TYPES__ICON":"img/poi_navvis/access_elevator.png",
+    "POI_TYPES__VISIBILITY_ZOOM_MAX":"",
+    "POI_TYPES__VISIBILITY_ZOOM_MIN":"",
+    "POI_TYPES__NAME__DE":"Aufzug",
+    "POI_TYPES__NAME__EN":"Elevator",
+    "POI_TYPE_GROUPS__ID":1,
+    "POI_TYPE_GROUPS__NAME__DE":"Zugang",
+    "POI_TYPE_GROUPS__NAME__EN":"Access"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.90088852579371,51.9842891154553,0.242365951781674 ]
+    },
+    "properties": {
+    "POIS__ORIENTATION_X":"0",
+    "POIS__ORIENTATION_Y":-0.7921546083218924,
+    "POIS__ORIENTATION_Z":-0.08465867608701524,
+    "POIS__ORIENTATION_W":0.6044203711636323,
+    "POIS__ID":8,
+    "POIS__VISIBILITY_CHECK":"true",
+    "POIS__IMPORTANCE":0.5,
+    "POIS__REFERENCE_MARKER":"false",
+    "POIS__CUSTOM_DATA":"",
+    "POIS__ICON":"",
+    "POIS__DATASET":"2018-09-11_10.49.28",
+    "POIS__TITLE__NL":"informatiebalie",
+    "POIS__TITLE__EN":"",
+    "POI_TYPES__ID":19,
+    "POI_TYPES__ICON":"img/poi_navvis/services_information.png",
+    "POI_TYPES__VISIBILITY_ZOOM_MAX":"",
+    "POI_TYPES__VISIBILITY_ZOOM_MIN":"",
+    "POI_TYPES__NAME__DE":"Information",
+    "POI_TYPES__NAME__EN":"Information",
+    "POI_TYPE_GROUPS__ID":5,
+    "POI_TYPE_GROUPS__NAME__DE":"Dienstleistungen",
+    "POI_TYPE_GROUPS__NAME__EN":"Services"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.90080441644681,51.9844582884928,0.901114112945798 ]
+    },
+    "properties": {
+    "POIS__ORIENTATION_X":"0",
+    "POIS__ORIENTATION_Y":-0.3281038898437573,
+    "POIS__ORIENTATION_Z":-0.10969533903896433,
+    "POIS__ORIENTATION_W":0.9382509099715929,
+    "POIS__ID":9,
+    "POIS__VISIBILITY_CHECK":"true",
+    "POIS__IMPORTANCE":0.5,
+    "POIS__REFERENCE_MARKER":"false",
+    "POIS__CUSTOM_DATA":"",
+    "POIS__ICON":"",
+    "POIS__DATASET":"2018-09-11_10.49.28",
+    "POIS__TITLE__NL":"Julia's",
+    "POIS__TITLE__EN":"",
+    "POI_TYPES__ID":18,
+    "POI_TYPES__ICON":"img/poi_navvis/services_food.png",
+    "POI_TYPES__VISIBILITY_ZOOM_MAX":"",
+    "POI_TYPES__VISIBILITY_ZOOM_MIN":"",
+    "POI_TYPES__NAME__DE":"Essen",
+    "POI_TYPES__NAME__EN":"Food",
+    "POI_TYPE_GROUPS__ID":5,
+    "POI_TYPE_GROUPS__NAME__DE":"Dienstleistungen",
+    "POI_TYPE_GROUPS__NAME__EN":"Services"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.90089143652877,51.984418335819,1.06471148705972 ]
+    },
+    "properties": {
+    "POIS__ORIENTATION_X":"0",
+    "POIS__ORIENTATION_Y":-0.15371412370734389,
+    "POIS__ORIENTATION_Z":-0.3240276564777224,
+    "POIS__ORIENTATION_W":0.933476323218987,
+    "POIS__ID":10,
+    "POIS__VISIBILITY_CHECK":"true",
+    "POIS__IMPORTANCE":0.5,
+    "POIS__REFERENCE_MARKER":"false",
+    "POIS__CUSTOM_DATA":"",
+    "POIS__ICON":"",
+    "POIS__DATASET":"2018-09-11_10.49.28",
+    "POIS__TITLE__NL":"starbucks",
+    "POIS__TITLE__EN":"",
+    "POI_TYPES__ID":18,
+    "POI_TYPES__ICON":"img/poi_navvis/services_food.png",
+    "POI_TYPES__VISIBILITY_ZOOM_MAX":"",
+    "POI_TYPES__VISIBILITY_ZOOM_MIN":"",
+    "POI_TYPES__NAME__DE":"Essen",
+    "POI_TYPES__NAME__EN":"Food",
+    "POI_TYPE_GROUPS__ID":5,
+    "POI_TYPE_GROUPS__NAME__DE":"Dienstleistungen",
+    "POI_TYPE_GROUPS__NAME__EN":"Services"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.90043928273476,51.9844798346975,1.28548773089956 ]
+    },
+    "properties": {
+    "POIS__ORIENTATION_X":"0",
+    "POIS__ORIENTATION_Y":-0.003246175562335485,
+    "POIS__ORIENTATION_Z":-0.2652210961240113,
+    "POIS__ORIENTATION_W":0.9641821573307588,
+    "POIS__ID":11,
+    "POIS__VISIBILITY_CHECK":"true",
+    "POIS__IMPORTANCE":0.5,
+    "POIS__REFERENCE_MARKER":"false",
+    "POIS__CUSTOM_DATA":"",
+    "POIS__ICON":"",
+    "POIS__DATASET":"2018-09-11_10.49.28",
+    "POIS__TITLE__NL":"Taxi",
+    "POIS__TITLE__EN":"",
+    "POI_TYPES__ID":10,
+    "POI_TYPES__ICON":"img/poi_navvis/publictransport_taxi.png",
+    "POI_TYPES__VISIBILITY_ZOOM_MAX":"",
+    "POI_TYPES__VISIBILITY_ZOOM_MIN":"",
+    "POI_TYPES__NAME__DE":"Taxi",
+    "POI_TYPES__NAME__EN":"Taxi",
+    "POI_TYPE_GROUPS__ID":3,
+    "POI_TYPE_GROUPS__NAME__DE":"Verkehr",
+    "POI_TYPE_GROUPS__NAME__EN":"Transport"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.90136859871195,51.9843828328986,0.686488108704294 ]
+    },
+    "properties": {
+    "POIS__ORIENTATION_X":"0",
+    "POIS__ORIENTATION_Y":0.1271628210829474,
+    "POIS__ORIENTATION_Z":-0.8463377098631286,
+    "POIS__ORIENTATION_W":0.5172447175156657,
+    "POIS__ID":12,
+    "POIS__VISIBILITY_CHECK":"true",
+    "POIS__IMPORTANCE":0.5,
+    "POIS__REFERENCE_MARKER":"false",
+    "POIS__CUSTOM_DATA":"",
+    "POIS__ICON":"",
+    "POIS__DATASET":"2018-09-11_10.49.28",
+    "POIS__TITLE__NL":"huiskamer",
+    "POIS__TITLE__EN":"",
+    "POI_TYPES__ID":18,
+    "POI_TYPES__ICON":"img/poi_navvis/services_food.png",
+    "POI_TYPES__VISIBILITY_ZOOM_MAX":"",
+    "POI_TYPES__VISIBILITY_ZOOM_MIN":"",
+    "POI_TYPES__NAME__DE":"Essen",
+    "POI_TYPES__NAME__EN":"Food",
+    "POI_TYPE_GROUPS__ID":5,
+    "POI_TYPE_GROUPS__NAME__DE":"Dienstleistungen",
+    "POI_TYPE_GROUPS__NAME__EN":"Services"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.90115353803497,51.9844628593056,0.508376418133079 ]
+    },
+    "properties": {
+    "POIS__ORIENTATION_X":"0",
+    "POIS__ORIENTATION_Y":-0.47453891794292824,
+    "POIS__ORIENTATION_Z":-0.4778512617955153,
+    "POIS__ORIENTATION_W":0.7392367597447985,
+    "POIS__ID":13,
+    "POIS__VISIBILITY_CHECK":"true",
+    "POIS__IMPORTANCE":0.5,
+    "POIS__REFERENCE_MARKER":"false",
+    "POIS__CUSTOM_DATA":"",
+    "POIS__ICON":"",
+    "POIS__DATASET":"2018-09-11_10.49.28",
+    "POIS__TITLE__NL":"inckeckpoortjes",
+    "POIS__TITLE__EN":"",
+    "POI_TYPES__ID":11,
+    "POI_TYPES__ICON":"img/poi_navvis/publictransport_train.png",
+    "POI_TYPES__VISIBILITY_ZOOM_MAX":"",
+    "POI_TYPES__VISIBILITY_ZOOM_MIN":"",
+    "POI_TYPES__NAME__DE":"Zug",
+    "POI_TYPES__NAME__EN":"Train",
+    "POI_TYPE_GROUPS__ID":3,
+    "POI_TYPE_GROUPS__NAME__DE":"Verkehr",
+    "POI_TYPE_GROUPS__NAME__EN":"Transport"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.9020489644448,51.9838979421554,-0.0670968281320647 ]
+    },
+    "properties": {
+    "POIS__ORIENTATION_X":"0",
+    "POIS__ORIENTATION_Y":-0.7099163879696059,
+    "POIS__ORIENTATION_Z":-0.01778211908887265,
+    "POIS__ORIENTATION_W":0.7040614449981603,
+    "POIS__ID":14,
+    "POIS__VISIBILITY_CHECK":"true",
+    "POIS__IMPORTANCE":0.5,
+    "POIS__REFERENCE_MARKER":"false",
+    "POIS__CUSTOM_DATA":"",
+    "POIS__ICON":"",
+    "POIS__DATASET":"2018-09-11_13.12.20",
+    "POIS__TITLE__NL":"Trolleybus",
+    "POIS__TITLE__EN":"",
+    "POI_TYPES__ID":9,
+    "POI_TYPES__ICON":"img/poi_navvis/publictransport_bus.png",
+    "POI_TYPES__VISIBILITY_ZOOM_MAX":"",
+    "POI_TYPES__VISIBILITY_ZOOM_MIN":"",
+    "POI_TYPES__NAME__DE":"Bus",
+    "POI_TYPES__NAME__EN":"Bus",
+    "POI_TYPE_GROUPS__ID":3,
+    "POI_TYPE_GROUPS__NAME__DE":"Verkehr",
+    "POI_TYPE_GROUPS__NAME__EN":"Transport"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.90109843037551,51.9841537117587,0.734308646325595 ]
+    },
+    "properties": {
+    "POIS__ORIENTATION_X":"0",
+    "POIS__ORIENTATION_Y":0.01662062863284671,
+    "POIS__ORIENTATION_Z":-0.9200370033912549,
+    "POIS__ORIENTATION_W":0.39147882074856766,
+    "POIS__ID":16,
+    "POIS__VISIBILITY_CHECK":"true",
+    "POIS__IMPORTANCE":0.5,
+    "POIS__REFERENCE_MARKER":"false",
+    "POIS__CUSTOM_DATA":"",
+    "POIS__ICON":"",
+    "POIS__DATASET":"2018-09-11_10.49.28",
+    "POIS__TITLE__NL":"",
+    "POIS__TITLE__EN":"ticketsmachine",
+    "POI_TYPES__ID":19,
+    "POI_TYPES__ICON":"img/poi_navvis/services_information.png",
+    "POI_TYPES__VISIBILITY_ZOOM_MAX":"",
+    "POI_TYPES__VISIBILITY_ZOOM_MIN":"",
+    "POI_TYPES__NAME__DE":"Information",
+    "POI_TYPES__NAME__EN":"Information",
+    "POI_TYPE_GROUPS__ID":5,
+    "POI_TYPE_GROUPS__NAME__DE":"Dienstleistungen",
+    "POI_TYPE_GROUPS__NAME__EN":"Services"
+    }
+  }
+]
+}
