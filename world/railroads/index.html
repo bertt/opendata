@@ -5,7 +5,7 @@
         <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"/>
         <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
         <script src="https://unpkg.com/leaflet-hash@0.2.1/leaflet-hash.js"></script>
-        <script src="https://unpkg.com/protomaps@latest/dist/protomaps.min.js"></script>
+        <script src="https://unpkg.com/protomaps-leaflet@1.24.2/dist/protomaps-leaflet.min.js"></script>
         <style>
             body, #map {
                 height:100vh;
@@ -23,10 +23,10 @@
             let paint_rules = [
               {
                 dataLayer:"ne_10m_railroads",
-                symbolizer:new protomaps.LineSymbolizer({color:"#999999"})
+                symbolizer:new protomapsL.LineSymbolizer({color:"#999999"})
               }
 	    ];
-            var layer = protomaps.leafletLayer({url:'railroads.pmtiles', paint_rules:paint_rules})
+            var layer = protomapsL.leafletLayer({url:'railroads.pmtiles', paint_rules:paint_rules})
             layer.addTo(map)
             layer.addInspector(map)
         </script>
